@@ -1,6 +1,6 @@
 {
   "name": "what-is-one-plus-one",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Exports the result of the mathematical computation 1+1.",
   "main": "index.js",
   "module": "index.js",
