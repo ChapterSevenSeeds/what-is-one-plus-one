@@ -1,3 +1,3 @@
-declare module 'whhat-is-one-plus-one' {
+declare module 'what-is-one-plus-one' {
     export default Number;
 }
